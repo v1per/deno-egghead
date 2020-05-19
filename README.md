@@ -1,2 +1,0 @@
-# deno-egghead
-Begin app
